@@ -1,6 +1,7 @@
 ---
 name: image-to-editable-ppt-slide
 description: Rebuild one or more reference images as visually matching editable PowerPoint slides using native shapes, text, fills, and layout instead of a flat screenshot. Use when the user wants an image, flowchart, infographic, dashboard, process diagram, or designed slide converted into an editable PPT/PPTX deck that stays editable and closely matches the source.
+homepage: https://github.com/benjaminlee/image-to-editable-ppt-slide
 metadata:
   clawdbot:
     emoji: "🖼️"
